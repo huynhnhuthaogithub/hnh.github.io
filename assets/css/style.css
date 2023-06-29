@@ -175,7 +175,7 @@ li:hover .spnav{
   }
   
   @keyframes fade {
-    from {opacity: .4} 
+    from {opacity: 0.8} 
     to {opacity: 1}
   }
     
